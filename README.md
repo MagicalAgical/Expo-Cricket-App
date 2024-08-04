@@ -1,11 +1,8 @@
-# Sample Snack app
+INSTRUCTIONS ON HOW TO VIEW 
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+1. Create a Expo Snack account (https://expo.dev/signup)
+2. Create a new snack (Press Snacks on the side and click on (+ New Snack)
+3. On the 3 dots in the project folder (middle left), press import git repo
+4. Clone Web URL and paste it into the import git repo
+5. After imported, on the right, press IOS, then press launch and enjoy my app! 
